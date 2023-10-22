@@ -1,0 +1,15 @@
+{
+  "name": "bitfinex",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kirill",
+  "license": "ISC",
+  "dependencies": {
+    "grenache-nodejs-http": "^0.7.13",
+    "grenache-nodejs-link": "^1.0.0"
+  }
+}
